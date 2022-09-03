@@ -1,1 +1,1 @@
-switch user 
+display username
