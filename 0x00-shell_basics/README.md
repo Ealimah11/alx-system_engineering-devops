@@ -1,1 +1,1 @@
-this shell script delete a directory
+a scripting to back to previous directory 
