@@ -1,1 +1,1 @@
-a scripting to back to previous directory 
+ a script that  list all files including hidden files
