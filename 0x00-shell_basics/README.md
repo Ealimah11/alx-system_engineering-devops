@@ -1,1 +1,1 @@
-to backspace to previous directory
+it move a file to another directory
