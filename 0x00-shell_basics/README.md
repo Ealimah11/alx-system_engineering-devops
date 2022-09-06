@@ -1,1 +1,1 @@
-this scripting shell to delete a file from a folder
+this shell script delete a directory
