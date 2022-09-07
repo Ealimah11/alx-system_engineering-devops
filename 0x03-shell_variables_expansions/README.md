@@ -1,1 +1,1 @@
-script that convert from binary to decimal
+ a script for combination
