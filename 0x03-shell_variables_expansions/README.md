@@ -1,1 +1,1 @@
-addition of numbers to values
+a script to print division
