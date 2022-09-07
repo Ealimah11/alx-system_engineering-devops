@@ -1,1 +1,1 @@
-a script to print 
+to display both local and environment variables
