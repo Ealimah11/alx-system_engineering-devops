@@ -1,1 +1,1 @@
-this  is a script that serve to create an alias
+ a script to hello the linux user
