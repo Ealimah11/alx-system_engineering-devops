@@ -1,1 +1,1 @@
- a script that  list all files including hidden files
+this file print file in a tmp
