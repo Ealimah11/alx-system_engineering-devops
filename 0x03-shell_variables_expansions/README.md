@@ -1,1 +1,1 @@
- a script to exponential a string
+script that convert from binary to decimal
