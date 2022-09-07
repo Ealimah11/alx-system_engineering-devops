@@ -1,1 +1,1 @@
-a file to count directories
+a script to print 
