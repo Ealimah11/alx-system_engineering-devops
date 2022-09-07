@@ -1,1 +1,1 @@
- a script to hello the linux user
+a script that add action to a path
