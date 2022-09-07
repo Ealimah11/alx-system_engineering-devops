@@ -1,1 +1,1 @@
-a script to print division
+ a script to exponential a string
