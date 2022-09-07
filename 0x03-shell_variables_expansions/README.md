@@ -1,1 +1,1 @@
-script that create new global variable
+addition of numbers to values
