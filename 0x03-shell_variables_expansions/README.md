@@ -1,1 +1,1 @@
- a script for combination
+to display a number in two decimal places
