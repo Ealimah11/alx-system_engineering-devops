@@ -1,1 +1,1 @@
-to display a number in two decimal places
+ converting decimal to hexadecimal script
