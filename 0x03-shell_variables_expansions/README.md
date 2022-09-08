@@ -1,1 +1,1 @@
- converting decimal to hexadecimal script
+to encodes and decodes using rot13
