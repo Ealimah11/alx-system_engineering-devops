@@ -1,6 +1,2 @@
-# Fix 500 error when a GET HTTP method is requested to Apache web server
+0x17. Web stack debugging #3
 
-exec {'replace':
-  provider => shell,
-  command  => 'sed -i "s/phpp/php/g" /var/www/html/wp-settings.php'
-}
